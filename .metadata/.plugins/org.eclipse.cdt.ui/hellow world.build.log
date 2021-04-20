@@ -1,0 +1,10 @@
+
+**** Rebuild of configuration Debug for project hellow world ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -osrc\pro1.o ..\src\pro1.c
+gcc -ohellow world.exe src\pro1.o
+C:/MinGW/x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o):crt0_c.c:(.text+0x46): undefined reference to `WinMain'
+collect2.exe: error: ld returned 1 exit status
+Build error occurred, build is stopped
+Time consumed: 313  ms.  

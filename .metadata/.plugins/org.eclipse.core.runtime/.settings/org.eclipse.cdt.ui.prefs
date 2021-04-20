@@ -1,0 +1,7 @@
+#Sat Feb 11 00:46:12 IST 2017
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+content_assist_disabled_computers=org.eclipse.cdt.ui.textProposalCategory\u0000org.eclipse.cdt.ui.parserProposalCategory\u0000
+eclipse.preferences.version=1
+wizard.preferred.toolchains=cdt.managedbuild.toolchain.gnu.mingw.exe.debug
+useQuickDiffPrefPage=true
